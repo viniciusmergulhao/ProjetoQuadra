@@ -1,2 +1,2 @@
-# Projeto para Reservas de Esporte e Lazer
-Projeto PI para reserva da quadra
+# atividade 02 de programação para internet
+atividade 02 - git e git
